@@ -2,7 +2,7 @@
 - 👀 I’m interested in reverse engineering, cybersec and game engines..
 - 🌱 I’m currently learning Rust and Enterprise Containerization..
 - 💞️ Mostly no time for open-source participation, but sharing what is possible to share!
-- 📫 Easy to reach me at (souris.cloud)[souris.cloud]
+- 📫 Easy to reach me at [souris.cloud](souris.cloud)
 
 <!---
 souriscloud/souriscloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
