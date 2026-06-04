@@ -17,7 +17,7 @@
 
 - 🔬 Reverse engineering & cybersec
 - 🎮 Game engines
-- 🦀 Currently sharpening **Rust** and **enterprise containerization**
+- ⚙️ Currently sharpening **Jai** and **neural network pipelines**
 
 #### 📡 Reach me
 
